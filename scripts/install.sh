@@ -21,6 +21,16 @@ fail() {
     exit 1
 }
 
+# Extract an asset URL from the GitHub release JSON. Works whether the JSON is
+# pretty-printed (api.github.com via curl) or compact (gh api).
+asset_url() {
+    /usr/bin/grep -oE '"browser_download_url"[[:space:]]*:[[:space:]]*"[^"]*"' "$release_json" \
+        | /usr/bin/sed -E 's/^.*"([^"]*)"$/\1/' \
+        | /usr/bin/grep -E "$1" \
+        | /usr/bin/sed -n '1p' \
+        || true
+}
+
 # Enable the freshly installed dictionary and move it to the top of the
 # Dictionary.app list. Dictionary.app is sandboxed, so it sees ~/Library/
 # Dictionaries through a symlink inside its container and stores that container
@@ -68,7 +78,7 @@ install_helper() {
     fi
 
     local helper_url
-    helper_url="$(/usr/bin/awk -F '"' '/browser_download_url/ && /ECDICTAudioHelper-v[0-9.]+.*\.zip/ { print $4; exit }' "$release_json")"
+    helper_url="$(asset_url 'ECDICTAudioHelper-v[0-9.]+.*\.zip')"
     if [[ -z "$helper_url" ]]; then
         printf '提示：Release 中没有 Helper 压缩包，弹窗发音需手动安装。\n' >&2
         return 0
@@ -141,8 +151,8 @@ printf '正在获取 ECDICT 最新版本信息…\n'
     "$API_URL" -o "$release_json" \
     || fail "无法连接 GitHub Releases。"
 
-zip_url="$(/usr/bin/awk -F '"' '/browser_download_url/ && /ECDICT-macOS-Dictionary-v[0-9.]+\.zip/ { print $4; exit }' "$release_json")"
-checksum_url="$(/usr/bin/awk -F '"' '/browser_download_url/ && /SHA256SUMS\.txt/ { print $4; exit }' "$release_json")"
+zip_url="$(asset_url 'ECDICT-macOS-Dictionary-v[0-9.]+\.zip')"
+checksum_url="$(asset_url 'SHA256SUMS\.txt')"
 
 [[ -n "$zip_url" ]] || fail "最新版 Release 中没有找到 macOS ZIP。"
 [[ -n "$checksum_url" ]] || fail "最新版 Release 中没有找到 SHA256SUMS.txt。"
