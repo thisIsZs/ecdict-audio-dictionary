@@ -10,17 +10,19 @@ logs="$HOME/Library/Logs"
 uid="$(id -u)"
 name="ECDICT 英汉发音词典.dictionary"
 
-resources=""
-for candidate in \
-  "$HOME/Library/Dictionaries/$name/Contents/Resources" \
-  "/Library/Dictionaries/$name/Contents/Resources"; do
-  if [[ -f "$candidate/audio-manifest.json" ]]; then
-    resources="$candidate"
-    break
-  fi
-done
-
+resources="${1:-${ECDICT_AUDIO_RESOURCES:-}}"
 if [[ -z "$resources" ]]; then
+  for candidate in \
+    "$HOME/Library/Dictionaries/$name/Contents/Resources" \
+    "/Library/Dictionaries/$name/Contents/Resources"; do
+    if [[ -f "$candidate/audio-manifest.json" ]]; then
+      resources="$candidate"
+      break
+    fi
+  done
+fi
+
+if [[ -z "$resources" || ! -f "$resources/audio-manifest.json" ]]; then
   printf '找不到已安装的词典：%s\n请先安装词典，再运行本脚本。\n' "$name" >&2
   exit 1
 fi
@@ -49,6 +51,7 @@ cat >"$plist" <<PLIST
   <key>ProgramArguments</key>
   <array>
     <string>$dest/run-helper.sh</string>
+    <string>$resources</string>
   </array>
   <key>RunAtLoad</key>
   <true/>

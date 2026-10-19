@@ -58,6 +58,7 @@ curl -fsSL https://github.com/thisIsZs/ecdict-audio-dictionary/releases/latest/d
 
 脚本会从 GitHub Releases 下载最新版、核对 SHA-256、备份同名旧版，并安装到当前用户的
 `~/Library/Dictionaries/`；同时**自动勾选该词典并置于词典列表第一位**，不需要管理员密码。
+脚本还会一并安装三指弹窗所需的 Helper（登录自启）；不想安装可加 `ECDICT_SKIP_HELPER=1`。
 脚本内容可在运行前先打开 [`scripts/install.sh`](scripts/install.sh) 审查。
 
 ## 三步安装
@@ -78,9 +79,11 @@ curl -fsSL https://github.com/thisIsZs/ecdict-audio-dictionary/releases/latest/d
 - 如果词条重复，请确认只勾选了**一本** ECDICT 词典。
 - 弹窗没有声音时，检查 Helper 是否在运行（见下一节）。
 
-## 弹窗发音 Helper（可选）
+## 弹窗发音 Helper（三指弹窗需要）
 
 只有三指轻点/用力点按的「查询」弹窗需要它；Dictionary.app 主窗口的喇叭不需要。
+
+**一行命令安装会自动装好 Helper，通常无需看本节。** 以下为手动安装方式。
 
 下载 `ECDICTAudioHelper-v1.0.0-macos.zip` 并解压，然后：
 

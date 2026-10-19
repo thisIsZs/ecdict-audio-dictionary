@@ -13,6 +13,10 @@ ECDICT 英汉发音词典 — 发音 Helper（macOS）
   或
     /Library/Dictionaries/ECDICT 英汉发音词典.dictionary
 
+  install-helper.sh 和 run-helper.sh 可接受一个可选参数，指定词典的
+  Contents/Resources 路径（自动检测失败时使用）：
+    ./install-helper.sh "/path/to/ECDICT 英汉发音词典.dictionary/Contents/Resources"
+
 方式一：登录时自动运行（推荐）
   若之前手动运行过 Helper，先停掉它（否则 17943 端口被占用）：
     kill $(lsof -nP -iTCP:17943 -sTCP:LISTEN -t)

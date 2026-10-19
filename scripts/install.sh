@@ -58,6 +58,65 @@ activate_dictionary() {
     fi
 }
 
+# Install the local helper that makes the Look Up panel play audio. The
+# dictionary and Dictionary.app work without it; only the panel needs a server.
+# Set ECDICT_SKIP_HELPER=1 to skip.
+install_helper() {
+    if [[ "${ECDICT_SKIP_HELPER:-0}" == "1" ]]; then
+        printf '已跳过 Helper（ECDICT_SKIP_HELPER=1）。\n'
+        return 0
+    fi
+
+    local helper_url
+    helper_url="$(/usr/bin/awk -F '"' '/browser_download_url/ && /ECDICTAudioHelper-v[0-9.]+.*\.zip/ { print $4; exit }' "$release_json")"
+    if [[ -z "$helper_url" ]]; then
+        printf '提示：Release 中没有 Helper 压缩包，弹窗发音需手动安装。\n' >&2
+        return 0
+    fi
+
+    local helper_zip="$work_dir/helper.zip"
+    local helper_dir="$work_dir/helper"
+    if ! /usr/bin/curl -fL --retry 3 "$helper_url" -o "$helper_zip"; then
+        printf '提示：Helper 下载失败，可稍后按 README 手动安装。\n' >&2
+        return 0
+    fi
+    /bin/mkdir -p "$helper_dir"
+    if ! /usr/bin/ditto -x -k "$helper_zip" "$helper_dir"; then
+        printf '提示：Helper 解压失败，可稍后按 README 手动安装。\n' >&2
+        return 0
+    fi
+
+    # Replace an existing manual/LaunchAgent instance so the new process can
+    # bind port 17943.
+    /bin/launchctl bootout "gui/$(/usr/bin/id -u)/com.ecdict.audio-helper" >/dev/null 2>&1 || true
+    local pid comm
+    pid="$(/usr/sbin/lsof -nP -iTCP:17943 -sTCP:LISTEN -t 2>/dev/null | /usr/bin/head -1 || true)"
+    if [[ -n "$pid" ]]; then
+        comm="$(/bin/ps -p "$pid" -o comm= 2>/dev/null || true)"
+        if [[ "$comm" == *ECDICTAudioHelper* ]]; then
+            /bin/kill "$pid" >/dev/null 2>&1 || true
+            /bin/sleep 1
+        fi
+    fi
+
+    if ! /bin/bash "$helper_dir/install-helper.sh" "$destination/Contents/Resources"; then
+        printf '提示：Helper 安装失败，可稍后按 README 手动安装。\n' >&2
+        return 0
+    fi
+
+    local attempt=0
+    while [[ $attempt -lt 5 ]]; do
+        if /usr/bin/curl -fsS --noproxy '*' --max-time 1 http://127.0.0.1:17943/health >/dev/null 2>&1; then
+            printf 'Helper 已启动：http://127.0.0.1:17943\n'
+            return 0
+        fi
+        /bin/sleep 1
+        attempt=$((attempt + 1))
+    done
+    printf '提示：Helper 已安装，但健康检查未通过；请查看 ~/Library/Logs/ECDICTAudioHelper.log。\n' >&2
+    return 0
+}
+
 command -v curl >/dev/null 2>&1 || fail "系统中找不到 curl。"
 command -v ditto >/dev/null 2>&1 || fail "系统中找不到 ditto。"
 command -v shasum >/dev/null 2>&1 || fail "系统中找不到 shasum。"
@@ -138,6 +197,7 @@ if [[ "${ECDICT_SKIP_RESTART:-0}" != "1" ]]; then
 fi
 
 activate_dictionary "$destination"
+install_helper
 
 printf '\n安装完成：%s\n' "$destination"
 printf '请重新打开“词典”App，进入“设置…”（Command-,）确认：\n'
