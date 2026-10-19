@@ -12,3 +12,14 @@ semantic_cleanup/*.sqlite
 semantic_cleanup/*.sqlite-*
 baseline/artifacts/*
 !baseline/artifacts/README.md
+.venv-audio/
+.pytest_cache/
+build/
+data/audio/overlay-*/audio/
+data/audio/overlay-*/original/
+data/audio/overlay-*/discovery.json
+data/audio/overlay-*/progress.log
+data/audio/*.log
+data/audio/helper-*.log
+data/audio/overlay-all/
+data/audio/overlay-test/

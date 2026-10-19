@@ -2,8 +2,8 @@
 
 set -euo pipefail
 
-REPOSITORY="343534-code/ecdict-macos-dictionary"
-DICTIONARY_NAME="ECDICT 简明英汉字典.dictionary"
+REPOSITORY="${ECDICT_REPOSITORY:-thisIsZs/ecdict-audio-dictionary}"
+DICTIONARY_NAME="ECDICT 英汉发音词典.dictionary"
 INSTALL_DIR="${ECDICT_INSTALL_DIR:-$HOME/Library/Dictionaries}"
 SYSTEM_DICTIONARY="/Library/Dictionaries/$DICTIONARY_NAME"
 API_URL="${ECDICT_RELEASE_API_URL:-https://api.github.com/repos/$REPOSITORY/releases/latest}"
@@ -19,6 +19,43 @@ cleanup() {
 fail() {
     printf '安装失败：%s\n' "$1" >&2
     exit 1
+}
+
+# Enable the freshly installed dictionary and move it to the top of the
+# Dictionary.app list. Dictionary.app is sandboxed, so it sees ~/Library/
+# Dictionaries through a symlink inside its container and stores that container
+# path in the ordered DCSActiveDictionaries array.
+activate_dictionary() {
+    local bundle="$1"
+    local name
+    name="$(/usr/bin/basename "$bundle")"
+
+    local container_dir="$HOME/Library/Containers/com.apple.Dictionary/Data/Library/Dictionaries"
+    local active_path="$bundle"
+    if [[ -L "$container_dir" ]]; then
+        active_path="$container_dir/$name"
+    fi
+
+    local plist="$HOME/Library/Preferences/com.apple.DictionaryServices.plist"
+    local -a items=("$active_path")
+
+    if [[ -f "$plist" ]]; then
+        local index=0
+        local existing
+        while existing="$(/usr/bin/plutil -extract "DCSActiveDictionaries.$index" raw -o - "$plist" 2>/dev/null)"; do
+            if [[ "$(/usr/bin/basename "$existing")" != "$name" ]]; then
+                items+=("$existing")
+            fi
+            index=$((index + 1))
+        done
+    fi
+
+    if /usr/bin/defaults write com.apple.DictionaryServices DCSActiveDictionaries \
+        -array "${items[@]}" >/dev/null 2>&1; then
+        printf '已自动勾选并置于第一位：%s\n' "$name"
+    else
+        printf '提示：自动勾选失败，请在“词典”→“设置…”中手动勾选。\n' >&2
+    fi
 }
 
 command -v curl >/dev/null 2>&1 || fail "系统中找不到 curl。"
@@ -79,7 +116,7 @@ destination="$INSTALL_DIR/$DICTIONARY_NAME"
 if [[ -e "$destination" ]]; then
     backup_dir="$INSTALL_DIR/ECDICT Backups"
     timestamp="$(/bin/date '+%Y%m%d-%H%M%S')"
-    backup_path="$backup_dir/ECDICT 简明英汉字典-$timestamp.dictionary"
+    backup_path="$backup_dir/ECDICT 英汉发音词典-$timestamp.dictionary"
     /bin/mkdir -p "$backup_dir"
     /bin/mv "$destination" "$backup_path"
     printf '旧版本已备份到：%s\n' "$backup_path"
@@ -92,10 +129,18 @@ if [[ "${ECDICT_SKIP_RESTART:-0}" != "1" ]]; then
     /usr/bin/killall -9 LookupViewService >/dev/null 2>&1 || true
     /usr/bin/killall -9 com.apple.DictionaryServiceHelper >/dev/null 2>&1 || true
     /usr/bin/killall Dictionary >/dev/null 2>&1 || true
+    # Wait for Dictionary to finish writing its own preferences; otherwise it
+    # could overwrite the activation we are about to perform.
+    for _ in 1 2 3; do
+        /usr/bin/pgrep -x Dictionary >/dev/null 2>&1 || break
+        /bin/sleep 1
+    done
 fi
 
+activate_dictionary "$destination"
+
 printf '\n安装完成：%s\n' "$destination"
-printf '请重新打开“词典”App，进入“设置…”（Command-,）：\n'
-printf '  1. 勾选“ECDICT 简明英汉字典”；\n'
-printf '  2. 同时勾选至少一个 macOS 系统自带词典；\n'
-printf '  3. 搜索 two 确认释义可以正常显示。\n'
+printf '请重新打开“词典”App，进入“设置…”（Command-,）确认：\n'
+printf '  1. “%s”已勾选并位于第一位；\n' "$DICTIONARY_NAME"
+printf '  2. 至少再勾选一本 macOS 系统自带词典；\n'
+printf '  3. 搜索 apple 确认释义与发音可以正常显示。\n'

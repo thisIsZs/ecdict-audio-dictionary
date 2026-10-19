@@ -10,7 +10,25 @@ The embedded description in the 1.0.28 MDX additionally describes the data
 as dual-licensed under "MIT / CC" without identifying a specific CC variant.
 This repository preserves the MIT license text as its redistribution basis.
 
+This repository is a modified fork of:
+https://github.com/343534-code/ecdict-macos-dictionary
+
+The original MDX-to-Apple-Dictionary converter, the Apple Dictionary formatting
+(CSS/XSL/Info.plist), the build/packaging scripts and the semantic overlay
+scaffolding come from that project and remain under the MIT License.
+
+Modifications in this fork (2026):
+- A pronunciation overlay that injects speakers into selected entries.
+- Wikimedia Commons discovery with per-file license auditing (CC0,
+  CC-BY-SA-3.0, CC-BY-SA-4.0, public domain).
+- File-based audio playback (Resources/Audio/<id>.mp3) instead of embedding.
+- Dictionary.app playback through a relative <audio> element.
+- Look Up panel playback through a small local helper process.
+- Part-of-speech specific recordings (e.g. record-noun / record-verb).
+
+Audio recordings are NOT covered by the MIT License. Each recording keeps its
+own license and attribution, recorded in the dictionary bundle's
+Resources/ATTRIBUTION.txt and in data/audio/overlay-*/manifest.json.
+
 This repository provides an unofficial macOS Dictionary conversion and
 formatting layer. It is not endorsed by Apple Inc. or the ECDICT maintainers.
-The conversion scripts and formatting changes in this repository are made
-available under the same MIT License.

@@ -1,304 +1,234 @@
-# ECDICT macOS Dictionary
+# ECDICT 英汉发音词典（macOS）
 
-**简体中文** | [English](README.en.md)
+[![Release](https://img.shields.io/github/v/release/thisIsZs/ecdict-audio-dictionary?label=release)](https://github.com/thisIsZs/ecdict-audio-dictionary/releases/latest)
+[![License](https://img.shields.io/github/license/thisIsZs/ecdict-audio-dictionary)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-macOS-black)](#已知限制)
 
-[![Release](https://img.shields.io/github/v/release/343534-code/ecdict-macos-dictionary?label=release)](https://github.com/343534-code/ecdict-macos-dictionary/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-macOS-black)](#系统要求)
-[![License](https://img.shields.io/github/license/343534-code/ecdict-macos-dictionary)](LICENSE)
+把 [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) 1.0.28 的英汉数据转换成
+macOS「词典」App 可用的 `.dictionary` 包，并为**核心/考试词**及部分 **`[计]`** 词条叠加
+**真人发音**。
 
-**在 Mac 上随手查词：约 340 万条 ECDICT 英汉词条，离线可用，融入系统查询。**
+本仓库是 [343534-code/ecdict-macos-dictionary](https://github.com/343534-code/ecdict-macos-dictionary)
+的修改版：保留其 MDX→Apple Dictionary 转换与排版，新增了**发音覆盖层**（Wikimedia Commons
+真人录音 + 本地播放 Helper）。
 
-为阅读英文资料、写作、编程和英语学习提供随手可用的中文释义。安装到 Apple 自带的“词典”后，即可在 Dictionary.app 或支持系统“查询”的应用中查词，无需为每次查询打开浏览器。
+## 特性
 
-*An offline English–Chinese dictionary for macOS, with around 3.4 million ECDICT entries in Dictionary.app and system Look Up. [Read the English guide →](README.en.md)*
+- **约 340 万条** ECDICT 词条，完全离线，无账号、无广告、无常驻进程。
+- **7,983 条真人录音**（7,739 个单词）：
+  - core（Oxford / Collins / 中考 / 高考 / CET4 / CET6 / 考研）：7,680 条
+  - `[计]` 技术词增量：303 条
+- **一词多音**：`record`、`object`、`present`、`produce` 等名词/动词读音不同的词，
+  同时提供**两个喇叭**并标注 `noun` / `verb`；读音相同的词只显示一个。
+- **Dictionary.app**：点击喇叭直接播放（相对路径 `<audio>`，播放时图标变蓝）。
+- **三指 Look Up 弹窗**：**点击喇叭立即播放**（无需长按；纯悬停不触发），通过本地 Helper 出声。
+- 深浅色自适应；浮窗有专门排版。
 
-![三指查询 Demo：精简首屏，点击更多展开完整详情（界面示意动画，非系统录屏）](docs/images/lookup-demo-v121.gif)
+## 数据规模
 
-> **界面示意动画，非系统录屏。** 演示 v1.2.1 的“首屏看释义 → 点击更多看详情”。具体高度、字号与展开方式由 macOS 和查询应用决定。[查看最新查询页面](docs/lookup-preview.md)。
+| 项 | 数值 |
+|---|---:|
+| 词条 | 3,402,564 |
+| 录音文件 | 7,983（Helper 实际可播 7,880） |
+| 覆盖单词 | 7,739 |
+| 安装体积 | 约 580 MB |
 
-安装完成后，查词无需联网、注册账号或运行额外的常驻程序。右键“查询”和触控板三指轻点的可用性取决于应用、设备与系统设置。
+> 说明：103 条录音的 id 含空格/撇号/点（如 `ad hoc`、`a.m.`），被 Helper 的安全白名单跳过。
 
-[下载最新版](https://github.com/343534-code/ecdict-macos-dictionary/releases/latest) · [安装指南](#macos-安装流程) · [常见问题](#常见问题) · [从源码构建](#从源码构建)
+## 下载
 
-> [!NOTE]
-> 项目正在建设面向英语学习者的语义重构层：它会在不改写 ECDICT 原始数据的前提下，为经过审核的高价值词条提供按英文语义重新组织的释义、简短英文解释和至多一条例句。当前 Release 仍以稳定的原始数据渲染为主；详见[语义重构架构](docs/semantic-architecture.md)。
+在 [Releases](https://github.com/thisIsZs/ecdict-audio-dictionary/releases/latest) 下载：
 
-> [!IMPORTANT]
-> 首次启用时，除了勾选“ECDICT 简明英汉字典”，还需在“词典”设置中至少勾选一个 macOS 系统自带词典。在部分 macOS 版本上，只启用第三方词典可能无法正常显示查询结果。
+| 文件 | 用途 |
+|---|---|
+| `ECDICT-macOS-Dictionary-v1.0.0.zip` | 词典本体（318 MB，解压后约 580 MB） |
+| `ECDICTAudioHelper-v1.0.0-macos.zip` | 弹窗发音 Helper（25 KB，`arm64 + x86_64` 通用） |
+| `SHA256SUMS.txt` | 上面两个 ZIP 的 SHA-256 |
+| `install.sh` | 一行命令安装词典 |
+
+词典也可以用一行命令安装（自动校验 SHA-256），详见下一节。
 
 ## 一行命令安装（推荐）
 
 打开“终端”，粘贴下面一整行并按回车：
 
 ```bash
-curl -fsSL https://github.com/343534-code/ecdict-macos-dictionary/releases/latest/download/install.sh | /bin/bash
+curl -fsSL https://github.com/thisIsZs/ecdict-audio-dictionary/releases/latest/download/install.sh | /bin/bash
 ```
 
-脚本会从 GitHub Releases 下载最新版、核对 SHA-256、备份同名旧版，并安装到当前用户的 `~/Library/Dictionaries/`，不需要管理员密码。脚本内容可在运行前先打开 [`scripts/install.sh`](scripts/install.sh) 审查。
+脚本会从 GitHub Releases 下载最新版、核对 SHA-256、备份同名旧版，并安装到当前用户的
+`~/Library/Dictionaries/`；同时**自动勾选该词典并置于词典列表第一位**，不需要管理员密码。
+脚本内容可在运行前先打开 [`scripts/install.sh`](scripts/install.sh) 审查。
 
 ## 三步安装
 
-1. 从 [Releases](https://github.com/343534-code/ecdict-macos-dictionary/releases/latest) 下载 ZIP 并解压。
-2. 把整个 `ECDICT 简明英汉字典.dictionary` 复制到 `~/Library/Dictionaries/`。
-3. 打开 Mac“词典”→“设置…”（`Command-,`），勾选 ECDICT，并**同时勾选至少一个系统自带词典**。
+1. 从 [Releases](https://github.com/thisIsZs/ecdict-audio-dictionary/releases/latest)
+   下载 `ECDICT-macOS-Dictionary-v1.0.0.zip` 并解压。
+2. 把整个 `ECDICT 英汉发音词典.dictionary` 复制到 `~/Library/Dictionaries/`。
+3. 打开 Mac“词典”→“设置…”（`Command-,`），勾选 **ECDICT 英汉发音词典**，
+   并同时勾选至少一个系统自带词典。
 
-首次安装、旧版清理和故障排查请参阅下方的[macOS 安装流程](#macos-安装流程)。
+> 一行命令安装会自动完成第 3 步的勾选与置顶；手动安装需要自己勾选。
 
-## 产品介绍
+### 安装后检查
 
-ECDICT macOS Dictionary 将 [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) 1.0.28 的英汉数据转换为 Apple `Dictionary.app` 可读取的 `.dictionary` 格式，并针对完整词典页面与快速查询浮窗优化排版。
+- 一行命令安装会自动勾选并置顶；手动安装请按第 3 步勾选。
+- 安装脚本会退出正在运行的「词典」，重新打开后勾选与顺序才会生效。
+- 旧版会备份到 `~/Library/Dictionaries/ECDICT Backups/`，可随时手动删除。
+- 如果词条重复，请确认只勾选了**一本** ECDICT 词典。
+- 弹窗没有声音时，检查 Helper 是否在运行（见下一节）。
 
-快速查询先展示各词性的第一条原始释义，便于阅读时迅速把握词义；展开“更多”可继续查看剩余释义及源数据中已有的词形、考试标签与词频信息。约 340 万条记录涵盖单词、变形、短语和专有名词，并不等同于 340 万个独立常用单词；不同词条包含的字段也有所不同。
+## 弹窗发音 Helper（可选）
 
-| 项目 | 说明 |
-| --- | --- |
-| 词典数据 | ECDICT 1.0.28，约 340 万条词条 |
-| 查询方式 | Dictionary.app、三指轻点、右键“查询”及部分系统文本服务 |
-| 词条内容 | 词头、音标、词性、中文释义，以及源数据中已有的可点击词形变化、考试标签与 BNC/COCA 词频 |
-| 运行方式 | 完全离线，无账号、无广告、无常驻进程 |
-| 其他格式 | 同时提供 MDX，可导入欧路词典、GoldenDict 和 MDict 等软件 |
+只有三指轻点/用力点按的「查询」弹窗需要它；Dictionary.app 主窗口的喇叭不需要。
 
-## 实际查询效果
+下载 `ECDICTAudioHelper-v1.0.0-macos.zip` 并解压，然后：
 
-**v1.2.1：** 快速查询首屏优先展示各词性的第一条原始释义；点击系统“更多”后，继续查看剩余释义、专业标签、词形变化、考试大纲与词频。完整 Dictionary.app 页面仍按词性组织释义。这是排版与展开改进，不代表全库已进行 AI 语义重构。
-
-以下为历史 v1.2.0 截图对照，最新布局见[查询页面](docs/lookup-preview.md)。
-
-| ECDICT | macOS 系统自带词典 |
-| --- | --- |
-| ![ECDICT v1.2.0 查询 take 的实际效果](docs/images/dictionary-app-take-v120.jpg) | ![macOS 系统自带词典查询 take 的效果](docs/images/apple-dictionary-take.jpg) |
-
-> 两张截图均来自同一台 Mac 上的实际 Dictionary.app 查询，没有使用模拟或生成界面。ECDICT v1.2.0 在紧凑布局中直接展示评级、词形变化、考试大纲与词频排名。
-
-安装后可通过以下入口查词：
-
-- macOS 自带“词典”应用；
-- 在支持的应用中选中单词后使用“查询”；
-- 触控板三指轻点查询；
-- 右键菜单中的“查询”；
-- Spotlight 和部分系统级文本服务。
-
-### 主要特点
-
-- **融入阅读流程**：在 Dictionary.app 中浏览完整词条，或在支持的应用里通过右键、三指轻点调用系统查询。
-- **先看释义，再看细节**：快速查询首屏保持精简，展开后查看其余内容；完整页面按词性组织释义。
-- **学习信息集中呈现**：保留源数据中的音标、Oxford/Collins 标记、具名词形变化、考试标签和 BNC/COCA 词频，减少来回查找。
-- **离线使用，无额外负担**：数据保存在本机，无账号、无广告，不收集使用数据，也不需要额外的常驻进程。
-- **兼顾不同阅读场景**：提供深色外观样式及 MDX 下载；系统查询浮窗的最终样式由 macOS 决定。
-- **来源与构建可审查**：公开转换脚本、样式和构建配置，保留上游数据来源与许可证说明。
-
-### 徽章怎么看
-
-- `Oxford 3000` 表示该词属于牛津 3000 核心词汇；
-- `Collins 1★–5★` 表示柯林斯词频星级，星数越高通常越常用；
-- `中考`、`高考`、`CET4` 等标签表示 ECDICT 原数据收录的考试大纲标记；
-- `BNC #80` 和 `COCA #60` 是该词在英国国家语料库与美国当代英语语料库中的词频排名，数字越小表示越常见。
-
-> 标签忠实反映原数据：例如 `(中高 80/60)` 只包含“中考”、“高考”和两个词频排名，不会凭空增加 CET4。
-
-## 系统要求
-
-- macOS 10.11 或更高版本（构建目标；未逐一验证所有历史版本）；
-- 安装后约占 424 MiB；建议预留至少 1.5 GB 空间用于下载、解压与旧版备份；
-- 一行命令和 ZIP 安装不需要管理员密码；PKG 系统级安装需要管理员密码。
-
-## 下载文件说明
-
-请前往仓库的 [Releases](../../releases) 页面：
-
-| 文件 | 用途 |
-| --- | --- |
-| `ECDICT-macOS-Dictionary-v1.2.1.zip` | 用户级 ZIP 安装包，无需管理员密码（推荐） |
-| `ECDICT-macOS-Dictionary-v1.2.1.pkg` | 系统级图形化安装包，需要管理员密码（未签名、未公证） |
-| `ECDICT-MDX-1.0.28.mdx` | 上游官方 MDX，适用于欧路词典、GoldenDict、MDict 等 |
-| `install.sh` | 一行命令使用的开源安装脚本 |
-| `SHA256SUMS.txt` | Release 附件的 SHA-256 校验值 |
-
-### SHA-256 校验值
-
-请下载同一 Release 的 `SHA256SUMS.txt`，在下载目录运行 `shasum -a 256 -c SHA256SUMS.txt`。仅下载部分附件时，未下载文件会提示找不到；核对你实际下载文件的结果即可。
-
-## macOS 安装流程
-
-### 安装前清理旧测试版（如果安装过）
-
-1. 完全退出 macOS“词典”应用，不要只关闭窗口。
-2. 在“词典”设置中取消勾选以前安装的 ECDICT 版本。
-3. 前往 `~/Library/Dictionaries/`，移走名称中含“优化版”、“高对比版”或“结构化版”的旧 `.dictionary` 文件夹。
-
-首次安装可直接跳过本节。
-
-### 方法一：一行命令安装（推荐）
-
-打开“终端”，执行：
+**推荐：登录自启**
 
 ```bash
-curl -fsSL https://github.com/343534-code/ecdict-macos-dictionary/releases/latest/download/install.sh | /bin/bash
+# 若之前手动运行过 Helper，先停掉（否则 17943 端口被占用）
+kill $(lsof -nP -iTCP:17943 -sTCP:LISTEN -t) 2>/dev/null || true
+
+./install-helper.sh
 ```
 
-脚本会自动完成下载、SHA-256 校验、旧版备份和用户级安装。完成后仍需打开“词典”→“设置…”，勾选 ECDICT 和至少一个系统自带词典。
+脚本会安装到 `~/Library/Application Support/ECDICT/`，并注册 LaunchAgent
+`com.ecdict.audio-helper`（登录自启、退出后自动重启）。
 
-> 如果以前通过 PKG 安装过系统级版本，脚本会检测 `/Library/Dictionaries/` 中的旧副本并停止，以免系统级旧版遮蔽用户级新版。此时请直接下载最新 PKG 覆盖更新。
-
-### 方法二：通过访达安装
-
-1. 下载 `ECDICT-macOS-Dictionary-v1.2.1.zip`。
-2. 双击 ZIP 文件解压，得到 `ECDICT 简明英汉字典.dictionary`。
-3. 完全退出 macOS“词典”应用（按 `Command-Q`）。
-4. 在访达菜单中选择“前往”→“前往文件夹…”。
-5. 输入 `~/Library/` 并按回车。
-6. 打开其中的 `Dictionaries` 文件夹；如果不存在，请新建一个名为 `Dictionaries` 的文件夹。
-7. 将整个 `ECDICT 简明英汉字典.dictionary` 复制进去，**不要只复制其中的 `Contents`**。
-8. 重新打开 macOS“词典”，然后打开“词典”→“设置…”。
-9. 在列表底部找到并勾选“ECDICT 简明英汉字典”。
-10. **必须同时勾选至少一个 macOS 系统自带词典**，例如系统提供的英语词典或英汉词典。在部分 macOS 版本上，只勾选 ECDICT 可能无法显示释义。
-11. 可将 ECDICT 拖到列表前部，使系统查询优先显示本词典。
-12. 再次完全退出并重新打开“词典”，搜索 `two` 确认可以正常显示释义。
-
-### 方法三：通过 PKG 图形化安装
-
-1. 从 Releases 下载 `ECDICT-macOS-Dictionary-v1.2.1.pkg`。
-2. 双击安装包，并按提示输入管理员密码。
-3. 安装包会把词典放入系统级 `/Library/Dictionaries/`，供这台 Mac 的用户使用。
-4. 打开“词典”→“设置…”，勾选 ECDICT，并同时勾选至少一个系统自带词典。
-
-> [!WARNING]
-> 当前 PKG 没有使用 Apple Developer Installer 证书签名。如果 macOS 阻止打开，请确认文件来自本仓库 Release 且 SHA-256 与上方一致，然后在“系统设置”→“隐私与安全性”中选择“仍要打开”。介意未签名安装包时，请使用一行命令或 ZIP 安装。
-
-### 方法四：手动使用终端安装已解压的 ZIP
-
-解压后执行：
+**或前台运行**
 
 ```bash
-mkdir -p "$HOME/Library/Dictionaries"
-ditto "ECDICT 简明英汉字典.dictionary" \
-  "$HOME/Library/Dictionaries/ECDICT 简明英汉字典.dictionary"
-killall -9 LookupViewService com.apple.DictionaryServiceHelper 2>/dev/null || true
-killall Dictionary 2>/dev/null || true
+./run-helper.sh
 ```
 
-随后打开“词典”→“设置…”，勾选该词典，并**同时勾选至少一个系统自带词典**。再次完全退出并重新打开“词典”，搜索 `two` 测试。
+**验证**
 
-## 启用三指查询
+```bash
+curl --noproxy '*' http://127.0.0.1:17943/health   # ECDICT audio helper ready
+tail -f ~/Library/Logs/ECDICTAudioHelper.log
+```
 
-1. 打开“系统设置”。
-2. 进入“触控板”→“光标与点按”。
-3. 开启“查询与数据检测器”。
-4. 将操作方式设置为“三指轻点”。
-5. 在 Safari、备忘录、TextEdit 或其他支持系统查询的应用中，把指针移到英文单词上并用三指轻点。
+**卸载**
 
-若查询浮窗没有显示本词典，请先确认它已在“词典”设置中勾选，并尝试将其拖到其他词典之前。
+```bash
+./uninstall-helper.sh
+```
 
-## 在欧路词典等软件中使用 MDX
+> 从源码构建：`bash scripts/build_audio_helper.sh`（加 `UNIVERSAL=1` 生成通用二进制），
+> 然后 `bash scripts/run_audio_helper.sh "<词典>/Contents/Resources"`。
 
-1. 下载 `ECDICT-MDX-1.0.28.mdx`。
-2. 在目标软件中打开“词典管理”或“导入词典”。
-3. 选择下载的 `.mdx` 文件。
-4. 启用词典并根据需要调整查询优先级。
+## 工作原理
 
-不同软件的菜单名称可能不同，请参考对应软件的导入说明。
+```
+ECDICT MDX
+  │ scripts/export_ecdict_styled.py（可选的 audio overlay 注入喇叭）
+  ▼
+Apple Dictionary XML ──► Dictionary Development Kit ──► .dictionary
+                                                         ├── Resources/Audio/<id>.mp3
+                                                         ├── Resources/audio-manifest.json
+                                                         └── Resources/ATTRIBUTION.txt
 
-## 更新版本
+播放：
+  Dictionary.app  → 相对路径 <audio src="Audio/<id>.mp3"> + a.play()
+  Look Up 弹窗     → onmouseover 写入本地 URL → 本地 Helper 用 AVAudioPlayer 播放
+```
 
-1. 先确认旧版的安装位置：ZIP/一行命令通常在 `~/Library/Dictionaries/`，PKG 在 `/Library/Dictionaries/`。
-2. 用与旧版相同的方式更新：用户级版可再次运行一行命令；系统级版请运行新 PKG。
-3. 完全退出并重新打开“词典”，确认 ECDICT 已勾选。
-4. 查询 `release`，点击“更多”，确认能看到第二条名词释义、词形变化、考试标签与 BNC/COCA 词频。
-
-如果三指查询仍显示旧版页面，请先保存工作，完全退出并重新打开**发起查询的应用**（例如浏览器或文本编辑）。仅重启“词典”或查询服务不一定能刷新该应用持有的旧索引。必要时注销后重新登录；不要直接删除整个系统缓存目录。
-如果同名旧版仍被缓存，可先将旧版取消勾选，退出“词典”，再安装新版。
-如果同时存在 `/Library/Dictionaries/` 和 `~/Library/Dictionaries/` 两个同名副本，Dictionary.app 可能优先显示系统级副本；请只保留一个正式版本。
-
-## 卸载
-
-1. 打开“词典”→“设置…”，取消勾选本词典。
-2. 退出“词典”。
-3. 在访达中前往安装位置：ZIP/一行命令通常为 `~/Library/Dictionaries/`，PKG 为 `/Library/Dictionaries/`（移除系统级副本可能需要管理员密码）。
-4. 将对应 `.dictionary` 文件夹移到废纸篓。
-5. 重新打开“词典”。
-
-## 常见问题
-
-### 安装后找不到词典
-
-- 确认复制的是完整 `.dictionary` 文件夹；
-- 确认路径是当前用户的 `~/Library/Dictionaries/`；
-- 完全退出并重新打开“词典”；
-- 在“词典”→“设置…”列表底部查找并手动勾选；
-- 必要时注销并重新登录 macOS。
-
-### 能看到 ECDICT，但查询不正常
-
-- 打开“词典”→“设置…”；
-- 确认“ECDICT 简明英汉字典”已勾选；
-- 再至少勾选一个 macOS 系统自带词典；
-- 完全退出“词典”并重新打开，然后再次查询。
-
-这是部分 macOS 版本加载第三方词典时的兼容性要求，不代表 ECDICT 需要联网。
-
-如果仍无法显示释义，请检查 `~/Library/Dictionaries/` 中是否还存在以前的 ECDICT 测试版；移走旧版后，再次完全退出并重新打开“词典”。
-
-### 三指查询没有出现 ECDICT
-
-系统查询只使用“词典”设置中已启用的来源。请勾选本词典，并将它拖到靠前位置。已经打开的查询浮窗不会即时刷新，需要关闭后重新触发。
-
-### 音标颜色与 Dictionary.app 不完全一致
-
-macOS 的三指查询浮窗会过滤或覆盖第三方词典的部分 CSS。Dictionary.app 中能看到完整排版；快速查询浮窗中的颜色可能随系统版本和外观模式变化。
-
-### 为什么安装包很大
-
-词典包含约 340 万条源记录及离线正文。v1.2.1 解压后的 `.dictionary` 约 424 MiB，属于正常体积。
+Helper（`scripts/ECDICTAudioHelper.m`）是自研的本地服务：仅监听 `127.0.0.1:17943`，
+启动时校验每个 MP3 的 SHA-256，只播放清单内的文件。
 
 ## 从源码构建
 
-构建需要：
-
-- Python 3；
-- `readmdict==0.1.1` 和 `python-lzo==1.15`；
-- LZO 系统库（Homebrew 用户可执行 `brew install lzo`）；
-- Apple Dictionary Development Kit；
-- 上游 ECDICT MDX 文件。
-
-先安装 LZO 系统库，再安装已锁定的 Python 依赖：
+依赖：
 
 ```bash
 brew install lzo
-python3 -m pip install -r requirements.txt
+python3 -m venv .venv-audio
+.venv-audio/bin/python -m pip install -r requirements.txt -r requirements-audio.txt
 ```
 
-导出结构化 XML：
+音频采集（可选，需联网）：
 
 ```bash
-python3 scripts/export_ecdict_styled.py \
-  "简明英汉字典增强版.mdx" \
-  "dictionary-source/ECDICT-styled.xml"
+# 1) 发现 + 许可审计（仅 CC0 / CC-BY-SA-3.0 / CC-BY-SA-4.0 / 公有领域）
+.venv-audio/bin/python scripts/discover_pronunciations.py \
+  data/audio/targets-core.txt data/audio/overlay-core/discovery.json
+
+# 2) 下载 + 转码为 MP3（可断点续跑；429 自动退避）
+.venv-audio/bin/python scripts/fetch_pronunciation_overlay.py \
+  data/audio/overlay-core/discovery.json data/audio/overlay-core
 ```
 
-然后进入 `dictionary-source`，确认 Makefile 中的 Dictionary Development Kit 路径，再运行：
+导出与编译：
 
 ```bash
-make all
+# 3) 合并 core + tech 的清单（overlay-all 是派生产物，不入库）
+.venv-audio/bin/python scripts/merge_overlays.py data/audio/overlay-all \
+  data/audio/overlay-core/manifest.json data/audio/overlay-tech/manifest.json
+
+# 4) 导出全量 XML（约 1 GB）
+.venv-audio/bin/python scripts/export_ecdict_styled.py \
+  "/path/to/简明英汉字典增强版.mdx" build/full-src/Dictionary.xml \
+  --audio-overlay data/audio/overlay-all/manifest.json
+
+# 5) 用 Apple DDK 编译（需自行获取 Dictionary Development Kit）
+.venv-audio/bin/python scripts/build_overlay_dictionary.py \
+  --xml build/full-src/Dictionary.xml \
+  --overlay data/audio/overlay-all/manifest.json \
+  --output build/audio-full \
+  --name "ECDICT 英汉发音词典" \
+  --identifier "com.ecdict.dictionary.audio" \
+  --ddk "/path/to/Dictionary Development Kit" --compile
 ```
 
-成品会生成在 `dictionary-source/objects/`。完整构建需要较长时间和数 GB 临时磁盘空间。
+## 发布（维护者）
 
-Apple 已不再面向普通用户维护 Dictionary Development Kit，因此不同 macOS 版本的构建兼容性可能有所差异。Apple 开发工具本身不包含在本仓库中。
+```bash
+VERSION=1.0.0
 
-## 项目结构
+# 1) 词典 ZIP（顶层必须是 .dictionary 目录）
+/usr/bin/ditto -c -k --sequesterRsrc --keepParent \
+  "$HOME/Library/Dictionaries/ECDICT 英汉发音词典.dictionary" \
+  "dist/ECDICT-macOS-Dictionary-v$VERSION.zip"
+
+# 2) Helper（通用二进制 + 脚本），并刷新 dist/SHA256SUMS.txt
+VERSION=$VERSION bash scripts/build_helper_release.sh
+```
+
+把 `dist/` 下的 `ECDICT-macOS-Dictionary-*.zip`、`ECDICTAudioHelper-*.zip`、
+`SHA256SUMS.txt`、`install.sh` 上传到 GitHub Release。
+`install.sh` 必须作为附件，`/releases/latest/download/install.sh` 才能取到。
+
+## 目录结构
 
 ```text
-dictionary-source/       样式、XSL、偏好设置、Info.plist 和 Makefile
-scripts/                 MDX 到 Apple Dictionary XML 的转换脚本
-semantic_cleanup/        AI 语义重构的数据契约、规则、批处理与校验层
-docs/semantic-architecture.md  语义重构架构、质量门槛与性能策略
-requirements.txt         已锁定的 Python 构建依赖
-LICENSE                  ECDICT 1.0.28 的 MIT License
-NOTICE                   数据来源和非官方声明
+dictionary-source/        Apple DDK 工程：CSS / XSL / Info.plist / Makefile / 图标
+scripts/                  MDX 导出、音频发现/下载、打包、Helper
+packaging/helper/         Helper 的启动/安装/卸载脚本（随 Release 分发）
+semantic_cleanup/         可选的语义覆盖层（数据契约与校验）
+data/audio/               目标词表、overlay 清单与署名
+docs/                     架构与 Helper 说明
+tests/                    导出器与语义层测试
+dist/                     本地生成的 ZIP / SHA256（不入库）
 ```
 
-## 来源与许可证
+## 已知限制
 
-词典数据和上游 MDX 来自 [ECDICT 1.0.28](https://github.com/skywind3000/ECDICT/releases/tag/1.0.28)。本仓库保留该版本中 `Copyright (c) 2017 Linwei` 的 MIT License 许可声明；MDX 内嵌说明另外将数据描述为“MIT / CC”双协议，但未指明具体 CC 版本。本仓库以已保留的 MIT 文本作为再分发依据，转换脚本和排版修改也按同一 MIT License 提供。
+- **仅支持 macOS**；Windows/Linux/iOS 无法使用 `.dictionary`。
+- **三指弹窗播放依赖本地 Helper**；Dictionary.app 内播放不依赖。
+- 构建依赖 Apple **Dictionary Development Kit**（未随仓库提供）。
+- 词典包与 Helper **未签名/未公证**，首次运行可能触发 Gatekeeper 提示；
+  `install-helper.sh` 会清除下载隔离标记，仍建议只从本仓库 Release 下载。
+- 真人录音覆盖有限：核心词约 51%，`[计]` 技术词更低（Commons 上多数技术词没有录音）。
 
-本项目是非官方转换版本，与 Apple Inc. 及 ECDICT 原作者均无隶属、合作或背书关系。词典内容按原许可证“按原样”提供，不保证所有释义均准确或适合专业用途。
+## 许可与致谢
+
+- 词典数据：**ECDICT 1.0.28**，MIT License，`Copyright (c) 2017 Linwei`。
+- 转换/排版/打包代码：源自
+  [343534-code/ecdict-macos-dictionary](https://github.com/343534-code/ecdict-macos-dictionary)，MIT License。
+- 录音：逐条保留各自许可（**CC0-1.0 / CC-BY-SA-3.0 / CC-BY-SA-4.0 / 公有领域**），
+  署名见词典包内 `Resources/ATTRIBUTION.txt` 与 `data/audio/overlay-*/manifest.json`。
+  CC-BY-SA 素材要求署名并以相同方式共享。
+- 本项目为**非官方**转换版本，与 Apple Inc. 及 ECDICT 维护者无隶属或背书关系。
+
+详见 [LICENSE](LICENSE) 与 [NOTICE](NOTICE)。

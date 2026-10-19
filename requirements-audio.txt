@@ -1,0 +1,4 @@
+# Isolated optional tooling; the original no-audio requirements are unchanged.
+pytest==9.1.1
+jsonschema==4.25.0
+imageio-ffmpeg==0.6.0

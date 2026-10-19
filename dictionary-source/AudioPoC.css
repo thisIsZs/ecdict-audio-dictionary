@@ -1,0 +1,106 @@
+
+/* Optional pronunciation laboratory only. Base dictionary CSS stays unchanged. */
+.audio-pronunciations { display: inline-block; font-size: 0.85em; vertical-align: middle; }
+/* The panel can draw a box around focusable/selectable inline content. None of
+   the audio area needs a focus ring, border or text selection. */
+.audio-pronunciations,
+.audio-pronunciations * {
+  outline: none !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-user-select: none !important;
+  user-select: none !important;
+}
+.audio-item { display: inline-block; margin-right: 0.45em; vertical-align: middle; }
+.audio-play {
+  -webkit-appearance: none;
+  appearance: none;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 1px 3px;
+  border: 0;
+  border-radius: 3px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  line-height: 1.25;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.audio-play:hover { background-color: rgba(128,128,128,0.15); }
+.audio-play:focus-visible { outline: 1px solid currentColor; }
+.audio-play > span { pointer-events: none; }
+/* Speaker is two stacked plain <img> glyphs: the blue one is shown only while
+   playing (Dictionary.app) or while hovered (panel). No CSS mask, so the host
+   does not draw a box around the icon. */
+.audio-speaker {
+  display: inline-block;
+  position: relative;
+  width: 14px;
+  height: 14px;
+  vertical-align: -2px;
+  pointer-events: none;
+}
+.audio-speaker img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 14px;
+  height: 14px;
+  border: 0;
+  pointer-events: none;
+}
+/* Toggle with opacity, not display: changing an element under the pointer makes
+   WebKit fire an extra mouseover, which re-triggered the clip ("a…apple"). */
+.audio-speaker .audio-glyph-active { opacity: 0; }
+.audio-play.is-playing .audio-glyph-active { opacity: 1; }
+.audio-play.is-playing .audio-glyph-idle { opacity: 0; }
+@media (prefers-color-scheme: dark) { .audio-speaker .audio-glyph-idle { filter: invert(1); } }
+.audio-media { display: none; }
+.audio-status { display: none; font-size: 0.8em; white-space: normal; overflow-wrap: anywhere; }
+.audio-status:empty { display: none; }
+.audio-lookup { display: none; }
+.audio-app { display: inline-block; }
+html.apple_client-panel .audio-app { display: none; }
+html.apple_client-panel a.audio-lookup {
+  display: inline-block;
+  width: auto;
+  min-width: 14px;
+  height: 14px;
+  margin: 0 0 0 4px;
+  padding: 0;
+  border: 0;
+  outline: none;
+  color: inherit;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: 1px 1px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+html.apple_client-panel a.audio-lookup .audio-pos {
+  display: inline-block;
+  margin-right: 3px;
+  color: -apple-system-secondary-label;
+  font-size: 0.78em;
+  font-weight: 600;
+  vertical-align: middle;
+}
+html.apple_client-panel a.audio-lookup:focus,
+html.apple_client-panel a.audio-lookup:active {
+  outline: none;
+}
+/* Hovering the speaker refreshes --ecdict-audio-request; the URL change is what
+   makes the host issue a fresh request and play. */
+html.apple_client-panel a.audio-lookup:hover {
+  background-image: var(--ecdict-audio-request);
+}
+/* Blue as the pointer reaches the speaker (i.e. just before it plays); resets
+   when the pointer leaves. */
+html.apple_client-panel a.audio-lookup:hover .audio-glyph-active { opacity: 1; }
+html.apple_client-panel a.audio-lookup:hover .audio-glyph-idle { opacity: 0; }
+/* Retain the original native-control candidate for comparison only. */
+.audio-item audio[controls] { width: 180px; height: 32px; vertical-align: middle; }
+.audio-item audio[data-inline="true"] { width: 132px; height: 24px; }

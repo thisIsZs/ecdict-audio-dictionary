@@ -1,0 +1,2123 @@
+ECDICT Pronunciation overlay — audio credits
+Individual recordings retain their own licenses.
+
+abacus (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-abacus.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-abacus.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+abb (US) — Persent101
+Persent101 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-abb.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-abb.ogg
+Changes: peak normalization target -3 dBFS, gain 3.7 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+abbreviated (US) — Persent101
+Persent101 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-abbreviated.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-abbreviated.ogg
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+abbreviatory (US) — Persent101
+Persent101 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-abbreviatory.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-abbreviatory.ogg
+Changes: peak normalization target -3 dBFS, gain -0.7 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+accumulator (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-accumulator.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-accumulator.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+acknowledgment (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-acknowledgment.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-acknowledgment.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+adding (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-adding.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-adding.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+addressing (US) — TreeMama
+TreeMama / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-addressing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-addressing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+advancing (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-advancing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-advancing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+airs (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-airs.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-airs.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+algorithm (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-algorithm.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-algorithm.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+ampersand (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-ampersand.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-ampersand.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+analog (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-analog.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-analog.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+android (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-android.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-android.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+animation (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-animation.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-animation.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+anisotropic (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-anisotropic.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-anisotropic.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+annoybot (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-annoybot.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-annoybot.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+anonymity (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-anonymity.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-anonymity.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+answering (US) — TreeMama
+TreeMama / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-answering.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-answering.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+apter (US) — EncycloPetey
+EncycloPetey / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-apter.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-apter.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+arity (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-arity.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-arity.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+articulation (US) — Wikimedia Commons contributor
+Wikimedia Commons contributor / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-articulation.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-articulation.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+assembling (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-assembling.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-assembling.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+assignation (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-assignation.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-assignation.ogg
+Changes: peak normalization target -3 dBFS, gain 4.3 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+assisted (US) — TreeMama
+TreeMama / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-assisted.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-assisted.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+associative (US) — BirdHopper
+BirdHopper / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-associative.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-associative.ogg
+Changes: peak normalization target -3 dBFS, gain 1.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+asterisk (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-asterisk.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-asterisk.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+asymmetric (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-asymmetric.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-asymmetric.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+asynchronous (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-asynchronous.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-asynchronous.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+ate (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-ate.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-ate.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+attenuate (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-attenuate.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-attenuate.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+autoformat (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-autoformat.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-autoformat.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+autoloader (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-autoloader.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-autoloader.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+automaton (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-automaton.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-automaton.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+autosave (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-autosave.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-autosave.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+awareness (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-awareness.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-awareness.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+bandwidth (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-bandwidth.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-bandwidth.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+bezel (US) — EncycloPetey
+EncycloPetey / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-bezel.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-bezel.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+bicycling (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-bicycling.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-bicycling.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+biochip (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-biochip.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-biochip.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+breaking (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-breaking.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-breaking.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+browser (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-browser.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-browser.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+burgeoning (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-burgeoning.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-burgeoning.oga
+Changes: peak normalization target -3 dBFS, gain 2.3 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+byte (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-byte.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-byte.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+cartographic (US) — EncycloPetey
+EncycloPetey / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-cartographic.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-cartographic.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+case sensitive (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-case sensitive.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-case sensitive.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+cathodic (US) — Derek Mawhinney
+Derek Mawhinney / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-cathodic.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-cathodic.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+caw (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-caw.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-caw.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+center (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-center.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-center.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+charging (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-charging.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-charging.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+coalesce (US) — EncycloPetey
+EncycloPetey / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-coalesce.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-coalesce.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+codec (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-codec.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-codec.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+codex (US) — Whomping Walrus
+Whomping Walrus / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-codex.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-codex.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+codomain (US) — BirdHopper
+BirdHopper / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-codomain.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-codomain.ogg
+Changes: peak normalization target -3 dBFS, gain 3.6 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+cognate (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-cognate.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-cognate.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+collation (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-collation.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-collation.oga
+Changes: peak normalization target -3 dBFS, gain 4.6 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+combinator (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-combinator.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-combinator.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+combinatorial (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-combinatorial.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-combinatorial.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+combinatory logic (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-combinatory logic.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-combinatory logic.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+committed (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-committed.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-committed.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+comparability (US) — No machine-readable author provided. TheDaveRoss assumed (based on copyright claims).
+No machine-readable author provided. TheDaveRoss assumed (based on copyright claims). / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-comparability.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-comparability.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+comparing (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-comparing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-comparing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+composite type (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-composite type.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-composite type.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+compositional (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-compositional.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-compositional.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+computational linguistics (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-computational linguistics.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-computational linguistics.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+condensing (US) — Mikemoral♪♫
+Mikemoral♪♫ / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-condensing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-condensing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+contaminant (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-contaminant.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-contaminant.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+contents (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-contents.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-contents.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+controller (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-controller.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-controller.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+controlling (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-controlling.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-controlling.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+copying (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-copying.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-copying.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+creating (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-creating.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-creating.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+crossed (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-crossed.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-crossed.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+cyborg (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-cyborg.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-cyborg.ogg
+Changes: peak normalization target -3 dBFS, gain -2.7 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+cypherpunk (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-cypherpunk.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-cypherpunk.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+data structure (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-data structure.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-data structure.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+datagram (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-datagram.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-datagram.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+daughterboard (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-daughterboard.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-daughterboard.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+dead reckoning (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-dead reckoning.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-dead reckoning.oga
+Changes: peak normalization target -3 dBFS, gain 1.8 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+debug (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-debug.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-debug.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+debugger (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-debugger.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-debugger.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+decidability (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-decidability.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-decidability.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+deciding (US) — LegionMammal978
+LegionMammal978 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-deciding.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-deciding.ogg
+Changes: peak normalization target -3 dBFS, gain 3.2 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+deliverable (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-deliverable.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-deliverable.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+dequeue (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-dequeue.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-dequeue.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+deselect (US) — SneverdleSnavis
+SneverdleSnavis / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-deselect.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-deselect.ogg
+Changes: peak normalization target -3 dBFS, gain -2.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+disassembler (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-disassembler.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-disassembler.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+disjointed (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-disjointed.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-disjointed.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+diskette (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-diskette.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-diskette.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+diskless (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-diskless.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-diskless.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+distributing (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-distributing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-distributing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+divisor (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-divisor.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-divisor.ogg
+Changes: peak normalization target -3 dBFS, gain -2.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+dragging (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-dragging.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-dragging.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+dram (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-dram.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-dram.ogg
+Changes: peak normalization target -3 dBFS, gain 2.2 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+ductility (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-ductility.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-ductility.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+eigenvalue (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-eigenvalue.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-eigenvalue.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+eigenvector (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-eigenvector.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-eigenvector.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+em dash (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-em dash.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-em dash.ogg
+Changes: peak normalization target -3 dBFS, gain -0.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+en dash (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-en dash.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-en dash.ogg
+Changes: peak normalization target -3 dBFS, gain 0.1 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+enabled (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-enabled.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-enabled.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+enablement (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-enablement.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-enablement.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+entering (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-entering.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-entering.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+entropy (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-entropy.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-entropy.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+exabyte (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-exabyte.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-exabyte.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+exponential (US) — EncycloPetey
+EncycloPetey / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-exponential.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-exponential.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+facsimile (US) — BirdHopper
+BirdHopper / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-facsimile.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-facsimile.ogg
+Changes: peak normalization target -3 dBFS, gain -1.8 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+facsimile (UK) — Soundguys
+Soundguys / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-facsimile.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-uk-facsimile.ogg
+Changes: peak normalization target -3 dBFS, gain 2.8 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+fading (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-fading.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-fading.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+faster (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-faster.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-faster.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+ferrite (US) — Gabriel Sjöberg
+Gabriel Sjöberg / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-ferrite.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-ferrite.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+fewest (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-fewest.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-fewest.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+firewall (US) — Mx. Granger
+Mx. Granger / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-firewall.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-firewall.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+firing (US) — TreeMama
+TreeMama / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-firing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-firing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+flexibility (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-flexibility.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-flexibility.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+floppy disk (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-floppy disk.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-floppy disk.oga
+Changes: peak normalization target -3 dBFS, gain 1.7 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+full stop (US) — Gabriel Sjöberg
+Gabriel Sjöberg / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-full stop.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-full stop.ogg
+Changes: peak normalization target -3 dBFS, gain 2.1 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+functionality (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-functionality.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-functionality.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+game theory (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-game theory.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-game theory.oga
+Changes: peak normalization target -3 dBFS, gain 2.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+gelatin (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-gelatin.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-gelatin.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+glyph (US) — EncycloPetey
+EncycloPetey / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-glyph.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-glyph.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+go to (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-go to.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-go to.ogg
+Changes: peak normalization target -3 dBFS, gain 2.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+granule (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-granule.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-granule.oga
+Changes: peak normalization target -3 dBFS, gain 2.6 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+graphics (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-graphics.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-graphics.oga
+Changes: peak normalization target -3 dBFS, gain 3.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+greater than (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-greater than.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-greater than.ogg
+Changes: peak normalization target -3 dBFS, gain 4.1 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+greatest (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-greatest.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-greatest.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+groupware (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-groupware.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-groupware.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+guiding (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-guiding.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-guiding.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+hands (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-hands.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-hands.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+haywire (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-haywire.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-haywire.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+healing (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-healing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-healing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+hertz (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-hertz.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-hertz.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+hexadecimal (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-hexadecimal.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-hexadecimal.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+hierarchic (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-hierarchic.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-hierarchic.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+highest (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-highest.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-highest.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+hooking (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-hooking.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-hooking.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+hopping (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-hopping.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-hopping.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+hostname (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-hostname.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-hostname.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+hypercube (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-hypercube.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-hypercube.ogg
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+hypertext (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-hypertext.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-hypertext.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+idempotent (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-idempotent.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-idempotent.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+imp (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-imp.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-imp.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+implementation (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-implementation.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-implementation.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+implicitly (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-implicitly.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-implicitly.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+included (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-included.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-included.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+indent (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-indent.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-indent.oga
+Changes: peak normalization target -3 dBFS, gain 2.3 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+informatics (US) — FreeMediaKid!
+FreeMediaKid! / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-informatics.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-informatics.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+infringement (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-infringement.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-infringement.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+inherently (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-inherently.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-inherently.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+injective (US) — Caesura
+Caesura / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-injective.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-injective.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+integer (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-integer.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-integer.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+interlanguage (US) — deoxy99
+deoxy99 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-interlanguage.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-interlanguage.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+interrupted (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-interrupted.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-interrupted.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+interrupting (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-interrupting.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-interrupting.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+intrinsically (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-intrinsically.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-intrinsically.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+intuitively (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-intuitively.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-intuitively.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+is (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-is.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-is.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+isometric (US) — EncycloPetey
+EncycloPetey / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-isometric.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-isometric.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+iterator (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-iterator.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-iterator.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+jitter (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-jitter.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-jitter.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+jovial (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-jovial.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-jovial.ogg
+Changes: peak normalization target -3 dBFS, gain 5.6 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+joystick (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-joystick.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-joystick.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+jughead (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-jughead.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-jughead.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+laying (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-laying.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-laying.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+learning curve (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-learning curve.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-learning curve.oga
+Changes: peak normalization target -3 dBFS, gain 3.1 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+led (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-led.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-led.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+lexicon (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-lexicon.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-lexicon.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+login (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-login.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-login.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+lynx (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-lynx.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-lynx.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+macroinstruction (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-macroinstruction.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-macroinstruction.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+macrolanguage (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-macrolanguage.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-macrolanguage.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+macroprogramming (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-macroprogramming.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-macroprogramming.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+marching (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-marching.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-marching.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+maskable (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-maskable.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-maskable.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+metacharacter (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-metacharacter.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-metacharacter.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+metadata (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-metadata.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-metadata.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+metafile (UK) — user:Xonique
+user:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-metafile.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-metafile.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+metalanguage (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-metalanguage.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-metalanguage.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+micro- (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-micro-.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-micro-.ogg
+Changes: peak normalization target -3 dBFS, gain 0.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+microfiche (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-microfiche.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-microfiche.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+middleware (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-middleware.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-middleware.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+misrepresentation (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-misrepresentation.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-misrepresentation.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+mixing (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-mixing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-mixing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+mnemonic (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-mnemonic.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-mnemonic.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+modus (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-modus.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-modus.ogg
+Changes: peak normalization target -3 dBFS, gain 1.7 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+motherboard (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-motherboard.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-motherboard.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+mu (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-mu.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-mu.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+multibit (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-multibit.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-multibit.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+multibyte (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-multibyte.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-multibyte.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+multicast (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-multicast.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-multicast.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+multicharacter (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-multicharacter.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-multicharacter.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+multigrid (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-multigrid.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-multigrid.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+named (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-named.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-named.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+namespace (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-namespace.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-namespace.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+null (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-null.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-null.ogg
+Changes: peak normalization target -3 dBFS, gain -2.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+numeral (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-numeral.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-numeral.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+online (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-online.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-online.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+operand (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-operand.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-operand.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+ordered (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-ordered.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-ordered.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+overshoot (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-overshoot.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-overshoot.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+p (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-p.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-p.ogg
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+pager (US) — FreeMediaKid!
+FreeMediaKid! / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-pager.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-pager.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+parasitic (US) — BirdHopper
+BirdHopper / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-parasitic.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-parasitic.ogg
+Changes: peak normalization target -3 dBFS, gain 1.1 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+parse (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-parse.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-parse.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+peroxide (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-peroxide.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-peroxide.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+petabyte (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-petabyte.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-petabyte.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+phoneme (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-phoneme.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-phoneme.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+phonon (US) — BirdHopper
+BirdHopper / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-phonon.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-phonon.ogg
+Changes: peak normalization target -3 dBFS, gain 1.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+pi (US) — 0x0077BE
+0x0077BE / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-pi.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-pi.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+placeholder (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-placeholder.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-placeholder.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+pointing (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-pointing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-pointing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+points (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-points.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-points.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+polygon (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-polygon.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-polygon.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+post mortem (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-post mortem.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-post mortem.oga
+Changes: peak normalization target -3 dBFS, gain 1.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+postscript (US) — BirdHopper
+BirdHopper / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-postscript.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-postscript.ogg
+Changes: peak normalization target -3 dBFS, gain 0.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+preferred (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-preferred.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-preferred.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+prefix (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-prefix.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-prefix.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+preserved (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-preserved.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-preserved.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+processing (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-processing.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-processing.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+provider (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-provider.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-provider.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+pulling (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-pulling.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-pulling.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+punched tape (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-punched tape.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-punched tape.oga
+Changes: peak normalization target -3 dBFS, gain 2.5 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+quaternary (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-quaternary.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-quaternary.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+quotient (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-quotient.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-quotient.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+radiogram (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-radiogram.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-radiogram.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+randomness (US) — Mikemoral
+Mikemoral / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-randomness.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-randomness.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+re (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-re.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-re.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+readme (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-readme.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-readme.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+reboot (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-reboot.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-reboot.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+receiving (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-receiving.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-receiving.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+recurring (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-recurring.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-recurring.oga
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+recursion (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-recursion.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-recursion.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+redact (US) — Mikemoral
+Mikemoral / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-redact.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-redact.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+redo (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-redo.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-redo.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+relational (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-relational.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-relational.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+reproducibility (UK) — No machine-readable author provided. Celestianpower assumed (based on copyright claims).
+No machine-readable author provided. Celestianpower assumed (based on copyright claims). / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-reproducibility.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-reproducibility.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+rerun (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-rerun.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-rerun.oga
+Changes: peak normalization target -3 dBFS, gain 2.3 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+rightmost (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-rightmost.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-rightmost.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+rights (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-rights.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-rights.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+router (US) — Tharthan
+Tharthan / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-router.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-router.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+router (UK) — No machine-readable author provided. Celestianpower assumed (based on copyright claims).
+No machine-readable author provided. Celestianpower assumed (based on copyright claims). / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-router.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-router.ogg
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+sales (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-sales.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-sales.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+sat (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-sat.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-sat.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+scanning (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-scanning.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-scanning.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+scavenger (UK) — Troll Control
+Troll Control / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-scavenger.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-uk-scavenger.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+schema (US) — DroEsperanto
+DroEsperanto / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-schema.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-schema.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+scientific method (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-scientific method.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-scientific method.ogg
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+seeking (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-seeking.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-seeking.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+semaphore (UK) — I learned some phrases.
+I learned some phrases. / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-semaphore.oga
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-uk-semaphore.oga
+Changes: peak normalization target -3 dBFS, gain 2.7 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+sending (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-sending.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-sending.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+sentinel (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-sentinel.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-sentinel.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+sigma (US) — 0x0077BE
+0x0077BE / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-sigma.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-sigma.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+simulator (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-simulator.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-simulator.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+sonar (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-sonar.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-sonar.ogg
+Changes: peak normalization target -3 dBFS, gain -2.8 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+spreadsheeting (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-spreadsheeting.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-spreadsheeting.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+steganography (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-steganography.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-steganography.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+stochastic (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-stochastic.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-stochastic.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+stopping (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-stopping.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-stopping.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+subchannel (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-subchannel.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-subchannel.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+subdirectory (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-subdirectory.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-subdirectory.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+subdomain (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-subdomain.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-subdomain.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+submenu (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-submenu.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-submenu.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+subset (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-subset.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-subset.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+suffix (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-suffix.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-suffix.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+superuser (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-superuser.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-superuser.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+suppressed (US) — No machine-readable author provided. Dvortybot assumed (based on copyright claims).
+No machine-readable author provided. Dvortybot assumed (based on copyright claims). / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-suppressed.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-suppressed.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+suppression (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-suppression.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-suppression.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+synchronization (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-synchronization.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-synchronization.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+synchronous (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-synchronous.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-synchronous.ogg
+Changes: peak normalization target -3 dBFS, gain -2.8 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+synchrony (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-synchrony.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-synchrony.ogg
+Changes: peak normalization target -3 dBFS, gain -2.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+sysop (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-sysop.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-sysop.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+systematology (US) — Pagoda123
+Pagoda123 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-systematology.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-systematology.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+teleconference (US) — த*உழவன்
+த*உழவன் / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-teleconference.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-us-teleconference.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+telesoftware (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-telesoftware.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-telesoftware.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+telnet (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-telnet.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-telnet.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+template (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-template.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-template.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+terabyte (US) — FreeMediaKid! (talk · contribs)
+FreeMediaKid! (talk · contribs) / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-terabyte.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-terabyte.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+thunk (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-thunk.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-thunk.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+thunking (UK) — User:Xonique
+User:Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-thunking.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-thunking.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+time code (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-time code.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-time code.ogg
+Changes: peak normalization target -3 dBFS, gain 5.4 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+time-out (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-time-out.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-time-out.ogg
+Changes: peak normalization target -3 dBFS, gain -2.3 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+tinman (US) — BirdHopper
+BirdHopper / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-tinman.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-tinman.ogg
+Changes: peak normalization target -3 dBFS, gain 1.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+toggle (US) — EncycloPetey
+EncycloPetey / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-toggle.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-toggle.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+touch screen (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-touch screen.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-touch screen.oga
+Changes: peak normalization target -3 dBFS, gain 1.7 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+transpose (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-transpose-noun.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-transpose-noun.ogg
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+transpose (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-transpose-verb.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-transpose-verb.ogg
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+triplet (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-triplet.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-triplet.ogg
+Changes: peak normalization target -3 dBFS, gain -2.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+typesetting (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-typesetting.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-typesetting.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+unambiguity (US) — K schadd
+K schadd / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-unambiguity.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-unambiguity.ogg
+Changes: peak normalization target -3 dBFS, gain 6.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+unbuffered (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-unbuffered.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-unbuffered.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+undecidable (US) — Dcoetzee
+Dcoetzee / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-undecidable.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-undecidable.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+unicast (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-unicast.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-unicast.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+uninterruptible power supply (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-uninterruptible power supply.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-uninterruptible power supply.oga
+Changes: peak normalization target -3 dBFS, gain 1.4 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+uniqueness (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-uniqueness.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-uniqueness.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+unsolicited (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-unsolicited.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-unsolicited.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+using (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-using.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-using.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+varying (US) — Neskaya
+Neskaya / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-varying.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-varying.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+vertex (US) — Sylvanmoon
+Sylvanmoon / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-vertex.ogg
+CC-BY-SA-4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Original: En-us-vertex.ogg
+Changes: peak normalization target -3 dBFS, gain -3.0 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+vi (US) — Paul2520
+Paul2520 / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-vi.oga
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-vi.oga
+Changes: reused previously converted derivative; mono 44100 Hz
+
+viewport (UK) — Xonique
+Xonique / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-uk-viewport.ogg
+LicenseRef-PD-self: https://commons.wikimedia.org/wiki/Commons:Licensing
+Original: En-uk-viewport.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+waveguide (US) — No machine-readable author provided. Dvortygirl assumed (based on copyright claims).
+No machine-readable author provided. Dvortygirl assumed (based on copyright claims). / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-waveguide.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-waveguide.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+word count (US) — Steve Shives
+Steve Shives / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-word count.ogg
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original: En-us-word count.ogg
+Changes: peak normalization target -3 dBFS, gain 4.1 dB (boost capped at 6 dB); mono 44100 Hz; no trimming
+
+workspace (US) — Dvortygirl
+Dvortygirl / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-workspace.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-workspace.ogg
+Changes: reused previously converted derivative; mono 44100 Hz
+
+x (US) — Twocs
+Twocs / Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:En-us-x.ogg
+CC-BY-SA-3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Original: En-us-x.ogg
+Changes: peak normalization target -3 dBFS, gain -0.9 dB (boost capped at 6 dB); mono 44100 Hz; no trimming

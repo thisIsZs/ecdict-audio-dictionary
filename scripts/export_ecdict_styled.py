@@ -373,22 +373,38 @@ def render(key: str, raw: bytes) -> str:
     details = ''.join(inflection_parts + exam_parts + [study] + metadata_parts)
     return header + core + (f'<div class="entry-details">{details}</div>' if details else '')
 
-def main(source: Path, destination: Path, semantic_db: Path | None = None) -> None:
+def main(source: Path, destination: Path, semantic_db: Path | None = None,
+         audio_overlay: Path | None = None, limit: int | None = None,
+         words: Path | None = None) -> None:
     if MDX is None:
         raise RuntimeError(
             "缺少 readmdict；请先运行 `python3 -m pip install -r requirements.txt`。"
         )
+    overlay = None
+    if audio_overlay:
+        from audio_overlay import load_overlay, render_overlay
+        overlay = load_overlay(audio_overlay)
+    wanted = None
+    if words:
+        wanted = {line.strip() for line in Path(words).read_text(encoding='utf-8').splitlines()
+                  if line.strip() and not line.startswith('#')}
     mdx = MDX(str(source))
     semantic_context = SemanticStore(semantic_db) if semantic_db else nullcontext(None)
     with semantic_context as semantic_store, destination.open('w', encoding='utf-8', buffering=1024*1024) as out:
         out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         out.write('<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">\n')
         for ordinal, (raw_key, raw_value) in enumerate(mdx.items(), 1):
+            if wanted is None and limit is not None and ordinal > limit:
+                break
             key = raw_key.decode('utf-8', 'replace').strip()
             if not key:
                 continue
+            if wanted is not None and key not in wanted:
+                continue
             semantic_entry = semantic_store.get(key) if semantic_store else None
             body = render_semantic_entry(semantic_entry) if semantic_entry else render(key, raw_value)
+            if overlay and key in overlay:
+                body = body.replace('</div>', render_overlay(overlay[key]) + '</div>', 1)
             out.write(f'<d:entry id="ecdict_{ordinal}" d:title={quoteattr(key)}><d:index d:value={quoteattr(key)}/>')
             out.write(f'{body}</d:entry>\n')
             if ordinal % 100000 == 0:
@@ -400,5 +416,10 @@ if __name__ == '__main__':
     parser.add_argument('source', type=Path)
     parser.add_argument('destination', type=Path)
     parser.add_argument('--semantic-db', type=Path, help='validated semantic_entries.sqlite overlay')
+    parser.add_argument('--audio-overlay', type=Path, help='audio-overlay-1 manifest keyed by headword')
+    parser.add_argument('--limit', type=int, help='export only the first N records (sampling)')
+    parser.add_argument('--words', type=Path, help='export only headwords listed in this file (sampling)')
     arguments = parser.parse_args()
-    main(arguments.source, arguments.destination, arguments.semantic_db)
+    main(arguments.source, arguments.destination, arguments.semantic_db,
+         arguments.audio_overlay, arguments.limit, arguments.words)
+
